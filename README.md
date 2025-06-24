@@ -1,2 +1,2 @@
-# seaborn
+# Visualisation using Seaborn
 Seaborn Activities
